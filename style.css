@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+html{
+  scroll-behavior: smooth;
+}
+body{
+	background: #def5d1;
+  font-family: 'Nunito', sans-serif;
+    user-select: none;
+  font-size: 1.3rem;
+  }
+h1.heading{
+  float: center;
+}::-webkit-scrollbar{
+  display:none;
+}
